@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Flickr Browser</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="browse_image_description">Downloaded Flickr Photo</string>
+    <!--"%s" is a placeholder that can be replaced with an actual string value when the app is ran-->
+    <!--"%d" means placeholder can be replaced with a decimal number-->
+    <string name ="photo_title_text">Title: %s</string>
+    <string name ="photo_tags_text">Tags: %S</string>
+    <string name="activity_search">Search</string>
+    <string name="searchable_hint">Enter photo tags</string>
+    <!--<string name="photo_tags_text">%1$s %2$s %3$s</string>-->
+</resources>
